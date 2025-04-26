@@ -17,4 +17,3 @@ Analyzed 11,000+ delivery records to find patterns in timely deliveries based on
 ---
 
 Made by Divyesh 🚀
-
